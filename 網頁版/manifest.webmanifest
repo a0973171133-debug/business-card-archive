@@ -1,0 +1,10 @@
+{
+  "name": "名片自動歸檔｜聯絡人資料庫",
+  "short_name": "名片歸檔",
+  "lang": "zh-Hant-TW",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f8",
+  "theme_color": "#17212b"
+}
